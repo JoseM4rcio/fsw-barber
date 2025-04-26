@@ -2,11 +2,14 @@
 
 Esse é um SaaS de reserva de barbeiros, para o usuário selecionar o serviço que deseja fazer, e agendar, diretamente pelo site.
 
-
-
-
-
-
+## Ao longo do projeto foi utilizado:
+- Next
+- Talwindcss
+- Shadcn
+- PostgreSQL
+- Docker
+- Prisma
+  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
